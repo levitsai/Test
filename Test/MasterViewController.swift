@@ -27,6 +27,9 @@ class MasterViewController: UITableViewController {
         }
         
         print("123456")
+        print("123456")
+        print("123456")
+        print("123456")
         
     }
 
