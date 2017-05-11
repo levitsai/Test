@@ -27,6 +27,8 @@ class MasterViewController: UITableViewController {
         }
         
         print("~!@#$%^&")
+        print("123456")
+        print("abcdefg")
     }
 
     override func viewWillAppear(_ animated: Bool) {
