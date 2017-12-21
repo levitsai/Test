@@ -38,7 +38,7 @@ class MasterViewController: UITableViewController {
         
         print("~!@#$%^&")
         print("123456")
-        print("abcdefg")
+//        print("abcdefg")
 //        print("?><MNBVCXZ")
 
     }
