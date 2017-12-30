@@ -197,7 +197,7 @@
 					8E554B401EC3FB2B00881BD4 = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = 9XPVHQT72G;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					8E554B561EC3FB2B00881BD4 = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -421,8 +421,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: pisces.lord@gmail.com (EEU5LZSKB2)";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9XPVHQT72G;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -437,8 +437,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: pisces.lord@gmail.com (EEU5LZSKB2)";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9XPVHQT72G;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
