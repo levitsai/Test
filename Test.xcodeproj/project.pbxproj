@@ -428,7 +428,7 @@
 				DEVELOPMENT_TEAM = 9XPVHQT72G;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = LeviTsai.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = LeviTsai.Swift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
@@ -445,7 +445,7 @@
 				DEVELOPMENT_TEAM = 9XPVHQT72G;
 				INFOPLIST_FILE = Test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = LeviTsai.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = LeviTsai.Swift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
