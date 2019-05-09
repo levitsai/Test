@@ -27,11 +27,11 @@ class MasterViewController: UITableViewController {
         }
         
         
-//        print("~!@#$%^&")
-//
-//        print("123456")
-//        print("123456")
-//        print("123456")
+        print("~!@#$%^&")
+
+        print("123456")
+        print("123456")
+        print("123456")
 //        print("123456")
 //      
 //        print("abcdefg")
