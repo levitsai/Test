@@ -25,8 +25,12 @@ class MasterViewController: UITableViewController {
             let controllers = split.viewControllers
             detailViewController = (controllers[controllers.count-1] as! UINavigationController).topViewController as? DetailViewController
         }
-//        print("~!@#$%^&")
-//      
+        
+        
+        
+        
+        print("~!@#$%^&")
+//
 //        print("123456")
 //        print("123456")
 //        print("123456")
